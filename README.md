@@ -24,7 +24,7 @@ My research philosophy revolves around **Scalable Sensing & Management**. I leve
 *   🤖 **Agentic AI & LLMs:** Developing autonomous agents for infrastructure decision-making.
 *   🕸️ **Deep Learning:** Pattern recognition in complex spatiotemporal datasets.
 
-#### 👁️ The "Eyes": Multi-Modal Sensing
+#### 👁️ The ”Ears" and "Eyes": Multi-Modal Sensing
 > *Capturing the pulse of the urban and marine environment.*
 *   📡 **DAS (Distributed Acoustic Sensing):** Turning fiber-optic cables into thousands of vibration sensors.
 *   🚁 **UAVs (Drones):** Aerial inspection and photogrammetry for urban modeling.
