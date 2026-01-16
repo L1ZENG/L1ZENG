@@ -58,9 +58,6 @@ My research philosophy revolves around **Scalable Sensing & Management**. I leve
 
  <!-- A placeholder for your papers. This is CRUCIAL for a PhD student.-->
 <!-- - 📄 **[Paper Title 1]** - *Conference/Journal Name (e.g., CVPR, Nature >Cities), 202X* | [PDF] [Code]-->
- 
-
----
 
 <div align="center">
   <a href="mailto:lzengam@connect.ust.hk">
