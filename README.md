@@ -11,6 +11,8 @@ Instructions:
 
 I am currently pursuing my Ph.D. at **The Hong Kong University of Science and Technology**, privileged to be advised by @ [**Prof. Limin ZHANG**](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=li-min-zhang-cezhangl). 
 
+I am particularly interested and specialized in the vertical application of Large language model based agent system in the area of construction industry.
+
 My work bridges the physical and digital worlds. I treat the city and the ocean as living data sources, developing **scalable AI systems** to decode their signals for a more resilient future.
 
 ---
