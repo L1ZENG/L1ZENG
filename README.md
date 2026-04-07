@@ -17,9 +17,9 @@ My work bridges the physical and digital worlds. I treat the city and the ocean 
 
 ---
 
-### 🔬 Research Focus: Perceiving the Imperceptible
+### 🔬 Research Focus: 
 
-My research philosophy revolves around **Scalable Sensing & Management**. I leverage the synergy of **Advanced AI** and **cutting-edge Sensing** to enhance the resilience of coastal cities and marine infrastructure.
+I leverage the synergy of **Advanced AI** and **cutting-edge Sensing** to enhance the resilience of coastal cities and marine infrastructure.
 
 #### 🧠 The "Brain": Trustworthy Agentic AI  
 > *Enabling reliable, scalable, and accessible decision-making for infrastructure and environmental systems.*
