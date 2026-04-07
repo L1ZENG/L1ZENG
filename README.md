@@ -21,10 +21,13 @@ My work bridges the physical and digital worlds. I treat the city and the ocean 
 
 My research philosophy revolves around **Scalable Sensing & Management**. I leverage the synergy of **Advanced AI** and **cutting-edge Sensing** to enhance the resilience of coastal cities and marine infrastructure.
 
-#### 🧠 The "Brain": Advanced AI
-> *Making sense of unstructured environmental data.*
-*   🤖 **Agentic AI & LLMs:** Developing autonomous agents for infrastructure decision-making.
-*   🕸️ **Deep Learning:** Pattern recognition in complex spatiotemporal datasets.
+#### 🧠 The "Brain": Trustworthy Agentic AI  
+> *Enabling reliable, scalable, and accessible decision-making for infrastructure and environmental systems.*
+
+- 🤖 **Agentic AI & LLMs:** Building trustworthy autonomous agents with reasoning and planning capabilities for complex infrastructure and environmental decision-making.  
+- 🔎 **Multi-modal RAG & Fine-tuning:** Integrating heterogeneous data (text, sensing, imagery) to support grounded, context-aware intelligence.  
+- 🧠 **Deep Learning:** Extracting patterns from complex spatiotemporal and environmental datasets.  
+- 🗣️ **Natural Language Interfaces:** Enabling intuitive, language-driven interaction for system design, monitoring, and management.  
 
 #### 👁️ The ”Ears" and "Eyes": Multi-Modal Sensing
 > *Capturing the pulse of the urban and marine environment.*
