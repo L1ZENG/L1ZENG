@@ -11,7 +11,7 @@ Instructions:
 
 I am currently pursuing my Ph.D. at **The Hong Kong University of Science and Technology**, privileged to be advised by @ [**Prof. Limin ZHANG**](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=li-min-zhang-cezhangl). 
 
-My research focuses on Trustworthy Agentic AI for infrastructure and environmental systems. It leverages advanced AI techniques (agentic reasoning and planning, multi-modal RAG, fine-tuning) and sensing technologies (DAS, UAVs, ROVs) to enable intelligent perception of urban/marine environments, facilitate and automate the design and management of complex systems through natural‑language‑driven interfaces, making decision-making tools more accessible, reliable, and scalable.
+My research focuses on **Trustworthy Agentic AI** for infrastructure and environmental systems. It leverages advanced AI techniques (agentic reasoning and planning, multi-modal RAG, fine-tuning) and sensing technologies (**Distributed Acoustic Sensing**, UAVs, ROVs) to enable intelligent perception of urban/marine environments, facilitate and automate the design and management of complex systems through natural‑language‑driven interfaces, making decision-making tools more accessible, reliable, and scalable.
 
 ---
 
