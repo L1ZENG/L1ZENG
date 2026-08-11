@@ -13,6 +13,7 @@ I am currently pursuing my Ph.D. at **The Hong Kong University of Science and Te
 
 My research focuses on **Trustworthy Agentic AI** for infrastructure and environmental systems. It leverages advanced AI techniques (agentic reasoning and planning, multi-modal RAG, fine-tuning) and sensing technologies (**Distributed Acoustic Sensing**, UAVs, ROVs) to enable intelligent perception of urban/marine environments, facilitate and automate the design and management of complex systems through natural‑language‑driven interfaces, making decision-making tools more accessible, reliable, and scalable.
 
+My PhD reseach aims to answer a fundamental question "How can probabilistic agents reliably operate in safety-critical engineering environments?"
 ---
 
 ### 🔬 Research Focus: 
