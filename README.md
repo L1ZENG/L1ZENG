@@ -13,7 +13,7 @@ I am a Ph.D. researcher at **The Hong Kong University of Science and Technology 
 
 My research interests lie at the intersection of **Agentic AI** and **civil & infrastructure engineering**, with a particular focus on the **trustworthiness of AI agents in safety-critical engineering systems**.
 
-> **How can probabilistic AI agents be made trustworthy for safety-critical engineering environments?**
+> **RQ: How can probabilistic AI agents be made trustworthy for safety-critical engineering environments?**
 
 ### 🔬 Research Interests
 
