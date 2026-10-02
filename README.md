@@ -11,7 +11,7 @@ Instructions:
 
 I am a Ph.D. researcher at **The Hong Kong University of Science and Technology (HKUST)**, advised by [**Prof. Limin ZHANG**](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=li-min-zhang-cezhangl).
 
-My research interests lie at the intersection of **Agentic AI** and **civil & infrastructure engineering**, with a particular focus on the **trustworthiness of AI agents in safety-critical engineering systems**.
+My research is situated at the intersection of **Agentic AI** and **civil & infrastructure engineering**, with a particular focus on the **trustworthiness of AI agents in safety-critical engineering systems**.
 
 > **RQ: How can probabilistic AI agents be made trustworthy for safety-critical engineering environments?**
 
